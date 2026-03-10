@@ -5,11 +5,12 @@
 
 🚀 I build **Mobile Apps, Backend Systems and AI projects**
 
-- 📱 Mobile Development → React Native
+- 🗄️ Databases → MySQL / PostgreSQL
 - ⚙️ Backend → Spring Boot / Java
+- 📱 Mobile Development → React Native
 - 🧠 AI & Machine Learning
 - 🔐 Cyber Security Enthusiast
-- 🗄️ Databases → MySQL / PostgreSQL
+
 
 ---
 
