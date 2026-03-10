@@ -62,7 +62,7 @@ Business process automation backend system
 
 <p align="center">
 
-<a href="https://linkedin.com/in/LINKEDIN">
+<a href="https://linkedin.com/in/gazihanizci">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
