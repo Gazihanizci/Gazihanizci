@@ -3,7 +3,7 @@
 
 ---
 
-🚀 I build **Mobile Apps, Backend Systems and AI projects**
+🚀 I build **Backend Systems, Frontend Systems, Mobile Apps and AI projects**
 
 - 🗄️ Databases → MySQL / PostgreSQL
 - ⚙️ Backend → Spring Boot / Java
@@ -36,14 +36,16 @@
 
 # 🚀 Projects
 
+🔹 Workflow Engine System  
+Business process automation backend system  
+
 🔹 FinTech Mobile Application  
 Spring Boot + React Native  
 
 🔹 AI Finance Assistant  
 Machine Learning based financial analysis  
 
-🔹 Workflow Engine System  
-Business process automation backend system  
+
 
 ---
 
