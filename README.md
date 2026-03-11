@@ -45,7 +45,16 @@ Spring Boot + React Native
 🔹 AI Finance Assistant  
 Machine Learning based financial analysis  
 
+🔹Web Application Development
+Development of modern web applications using React, Spring Boot and REST APIs.  
+Includes authentication systems, backend API services, database management and responsive user interfaces.
 
+🔹Mobile Application Development
+Cross-platform mobile applications built with Flutter and React Native.  
+Projects include cyber security awareness applications, quiz systems and interactive mobile tools.
+
+🔹Data Analysis & Machine Learning Projects  
+Experiments with financial datasets, predictive modeling and machine learning algorithms for trend analysis and decision support.
 
 ---
 
