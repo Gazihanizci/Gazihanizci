@@ -24,13 +24,6 @@
 
 ---
 
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazihanizci&layout=compact&theme=tokyonight&langs_count=8"/>
-
-</p>
 # 🔥 GitHub Streak
 
 <p align="center">
