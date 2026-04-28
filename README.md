@@ -7,7 +7,7 @@
 
 - 🗄️ Databases → MySQL / PostgreSQL
 - ⚙️ Backend → Spring Boot / Java
-- 📱 Mobile Development → React Native
+- 📱 Mobile Development → React Native / Flutter
 - 🧠 AI & Machine Learning
 - 🔐 Cyber Security Enthusiast
 
