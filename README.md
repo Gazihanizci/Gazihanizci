@@ -107,25 +107,7 @@
 
 ---
 
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazihanizci&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800"/>
-
-</p>
-```
-
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Gazihanizci&theme=tokyonight"/>
-
-</p>
+# 📊 GitHub Statistics <p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gazihanizci&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazihanizci&layout=compact&theme=tokyonight&hide_border=true" /> </p> --- # 💻 Most Used Languages <p align="center"> <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazihanizci&layout=compact&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
