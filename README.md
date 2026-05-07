@@ -97,11 +97,13 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gazihanizci&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gazihanizci&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazihanizci&layout=compact&theme=tokyonight&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazihanizci&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" />
 
 </p>
+```
+
 
 ---
 
@@ -109,9 +111,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazihanizci&layout=compact&theme=tokyonight&langs_count=8"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gazihanizci&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800"/>
 
 </p>
+```
+
 
 ---
 
